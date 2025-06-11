@@ -14,7 +14,7 @@
     "markdown.validate.ignoredLinks": [
         "/Download",
         "/insiders",
-        "/download"
+        "/Download"
     ],
     "markdown.copyFiles.destination": {
         // /release-notes/v123.md -> /release-notes/images/123/img.png
